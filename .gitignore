@@ -69,3 +69,10 @@ data/raw/
 # Python tooling
 .mypy_cache/
 .ruff_cache/
+# SQLite Database
+*.db
+*.sqlite3
+
+# SQLite Database
+*.db
+*.sqlite3
